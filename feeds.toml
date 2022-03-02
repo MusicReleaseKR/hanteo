@@ -8,3 +8,12 @@ contentSelector = "td:nth-child(3) p"
 dateSelector = "td.center:nth-child(1)"
 dateFormat = "yyyy-MM-dd"
 waitUntil = "networkidle"
+
+[newalbum_legacy]
+title = "한터차트 ─ 뮤직정보 ─ 음반신보"
+url = "https://www.hanteochart.com/board/newalbum"
+entrySelector = "tbody[id='boardList'] tr"
+titleSelector = "td.left p"
+linkSelector = "*"
+contentSelector = "td.center:nth-child(1)"
+waitUntil = "networkidle"
