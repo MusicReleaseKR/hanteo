@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-02T14:15:17.240Z</updated>
+    <updated>2022-03-02T15:16:13.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 사람만(OST): JTBC-TV 월화 드라마]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[제이티비씨(JTBC)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크랙시(CRAXY) - DANCE WITH GOD: 미니앨범 2집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[내츄럴리뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이이언 - FRAGILE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행자의 노래 10집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아울로스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신지 - ALWAYS HERE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RACHAEL YAMAGATA - HEARTACHE MOON]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[씨앤엘(C &amp; L)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히어로인시티/할로우 영/제이 웨이 - WE CLASS]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -72,47 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리블렛(CHERRY BULLET) - CHERRY WISH: 미니앨범 2집]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진석 - 기대]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자이누경 - 너의 날씨]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤서령 - 나비소녀]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[인터파크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온시 - 영원동 뚜벅이]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미러볼 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이체스(A-CHESS) - 귀가]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
