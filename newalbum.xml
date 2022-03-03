@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-03T01:01:04.902Z</updated>
+    <updated>2022-03-03T02:20:46.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -20,11 +20,10 @@
         <content type="html"><![CDATA[내츄럴리뮤직]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이이언 - FRAGILE]]></title>
+        <title type="html"><![CDATA[커먼 그라운드 - CONSPIRACY]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여행자의 노래 10집]]></title>
@@ -45,7 +44,7 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[씨앤엘(C &amp; L)]]></content>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[히어로인시티/할로우 영/제이 웨이 - WE CLASS]]></title>
