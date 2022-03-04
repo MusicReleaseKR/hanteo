@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-04T01:04:42.465Z</updated>
+    <updated>2022-03-04T02:43:32.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피타입(P-TYPE) 2집 - THE VINTAGE, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인터파크]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피타입(P-TYPE) 1집 - HEAVY BASS, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인터파크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이루마(YIRUMA) - SOLO, LP]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -100,17 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지윤(ZOONI) - 자전거만 있다면]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유난이 - 눈사람]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
     </entry>
 </feed>
