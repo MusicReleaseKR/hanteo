@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-14T08:19:39.262Z</updated>
+    <updated>2022-03-14T09:18:17.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권지윤 - PANORAMA: 미니앨범 1집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[내츄럴리뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[권여름 - LILY, LILY]]></title>
@@ -108,12 +115,5 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-11T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차소연 - 우도]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
