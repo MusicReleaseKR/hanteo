@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-16T14:15:13.286Z</updated>
+    <updated>2022-03-16T15:21:01.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임세모 - 건강하세모]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[비스킷 사운드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔루션스 - TIME: 미니앨범]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박창근 - 박창근 BEST 20]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라드 뮤지엄(RAD MUSEUM) 1집 - RAD]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김준수 - DIMENSION: 미니앨범 3집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홈존(HOMEZONE) - WARM]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -78,39 +112,5 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은조 - SHINE ON LINE: 웹툰 진짜로 바꿔줘(OST)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음율 - 상냥함의 용기]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[퍼플파인 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤언니 - 헤어졌잖아]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤누구 - 아직까지]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유노(YOONO) - BYE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[포크라노스]]></content>
     </entry>
 </feed>
