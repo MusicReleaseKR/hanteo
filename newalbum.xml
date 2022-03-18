@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-18T09:20:48.926Z</updated>
+    <updated>2022-03-18T10:18:42.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[희상 - 달]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홈스윗뮤직 - MOONLIGHT]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해든(코어 로우) - HEARTLESS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필윤(PHIL YOON) - SEAGULL & DRONE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펄키드(PXARX KID) - NOBODY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레이서(OST): MBC-TV 금토 드라마]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -13,108 +47,72 @@
         <content type="html"><![CDATA[드림어스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에이티즈(ATEEZ) - ODE TO YOUTH: ATEEZ 1ST PHOTOBOOK]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현우 - 내 맘에 봄 너라는 꽃]]></title>
+        <title type="html"><![CDATA[키드 킹(KIDD KING) - EMOTIONAL BAGGAGE]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트레이 키즈(STRAY KIDS) - ODDINARY]]></title>
+        <title type="html"><![CDATA[카라신주니어(KARACIN JR.)/나오(NA0H) - PINK PARAD0X]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - 웹툰 나 혼자만 레벨업(OST)]]></title>
+        <title type="html"><![CDATA[조현아 - 늦은 후회]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김준수 - DIMENSION: 미니앨범 3집, KIT]]></title>
+        <title type="html"><![CDATA[조인호 - WATER]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국가가 부른다(VA), PT.4]]></title>
+        <title type="html"><![CDATA[정상수 - 환상의 명사수: 웹툰 나쁜 녀석들(OST)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STANLEY TURRENTINE - ROUGH & TUMBLE]]></title>
+        <title type="html"><![CDATA[임재범 6집 - TO...]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROBERT PLANT/ALISON KRAUSS - RAISING SAND]]></title>
+        <title type="html"><![CDATA[임재범 4집 - STORY OF TWO YEARS]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ORNETTE COLEMAN - GENIUS OF GENIUS: THE CONTEMPORARY ALBUMS]]></title>
+        <title type="html"><![CDATA[임재범 - 30주년 앨범: AFTER THE SUNSET, WHITE NIGHT]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MILT JACKSON - MILT JACKSON AND THE THELONIOUS MONK QUINTET]]></title>
+        <title type="html"><![CDATA[이다능 - 내 맘 다 줄게]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JOE PASS - FOR DJANGO]]></title>
+        <title type="html"><![CDATA[이그니토(IGNITO) - 황금마차]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUKE ELLINGTON/JOHN COLTRANE - DUKE ELLINGTON & JOHN COLTRANE: ACOUSTIC SOUNDS SERIES]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUD POWELL - TIME WAITS: THE AMAZING BUD POWELL]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLUE LAB BEATS - MOTHERLAND JOURNEY]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLUE LAB BEATS - MOTHERLAND JOURNEY]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
+        <content type="html"><![CDATA[비스킷 사운드]]></content>
     </entry>
 </feed>
