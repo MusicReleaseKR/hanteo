@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-18T07:15:42.600Z</updated>
+    <updated>2022-03-18T08:19:04.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신현우 - 내 맘에 봄 너라는 꽃]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈(STRAY KIDS) - ODDINARY]]></title>
@@ -109,12 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랭클리(FRANKLY) - FRANKLY I...]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
