@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-03-22T09:21:15.863Z</updated>
+    <updated>2022-03-22T10:18:16.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <updated>2022-06-23T00:00:00.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FIRST ENSEMBLE - STUDIO GHIBLI MEETS CHOPIN LIVE]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에릭남 - THERE AND BACK AGAIN]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
@@ -107,12 +114,5 @@
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEN MORIMURA & LATIN JAZZ BAND - STUDIO GHIBLI MEETS LATIN CUBAN JAZZ BAND]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
 </feed>
