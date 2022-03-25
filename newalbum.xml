@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-25T08:19:43.927Z</updated>
+    <updated>2022-03-25T09:21:13.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상의 모든 음악 9집(VA): 15TH ANNIVERSARY, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아울로스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보니(BONI) 1집 - LOVE]]></title>
@@ -80,6 +87,13 @@
         <updated>2022-03-25T00:00:00.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[국가가 부른다(VA), PT.5]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[THELONIOUS MONK - BRILLIANT CORNERS[NOT NOW]]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -99,19 +113,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[시샵 미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RITCHIE VALENS - LA BAMBA[NOT NOW]]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIRVANA - MTV UNPLUGGED IN NEW YORK]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
 </feed>
