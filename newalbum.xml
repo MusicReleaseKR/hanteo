@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-28T09:19:02.839Z</updated>
+    <updated>2022-03-28T10:21:09.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홈보이(HOMEBOY)/닥터레드(DR.RED)/문(2, MOON) - 혼자만의 축제]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호림(HORIM) - WINTER TO SPRING]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오감 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호노(HONO) - MAISON EN JAUNE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[루미넌트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현지훈 - SATELLITE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동근 - 서로]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하현우 - ANTI EGO: 미니앨범 2집]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -27,6 +62,24 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쿠엔(KUEN) - SHUT UP & GROOVE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추다혜 - 구아리랑: 왓차 오리지널 조인 마이 테이블(OST)]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최홍자 - 혼자]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[채(CHE) 1집 - KPOP]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -34,87 +87,31 @@
         <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[차누(CHANOO) - 눈을 뜰까]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[퍼플파인 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진(4, JIN) - GIVE CHANCE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조인(ZOIN) - 미워할게]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[비스킷 사운드]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[재만 - MIS: 미니앨범, 한정반]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자우림 9집 - GOODBYE, GRIEF., LP]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[인터파크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자우림 10집 - 자우림]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[인터파크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승근 - 구름에 달 가듯]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오 마이 걸 2집 - REAL LOVE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[소니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 DREAM 2집 - GLITCH MODE, PHOTOBOOK VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 DREAM 2집 - GLITCH MODE, DIGIPACK VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈(STRAY KIDS) - ODDINARY, JEWEL CASE VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스톰(STORM, 2) - CHRISTMAS GIFT]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[조은 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사(블랙핑크) - FIRST SINGLE ALBUM LALISA, GOLD VINYL LP: SPECIAL LIMITED ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사(블랙핑크) - 0327 PHOTOBOOK VOL.03]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주홍과 노름마치 - 허튼소리]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
 </feed>
