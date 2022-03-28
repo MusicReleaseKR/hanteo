@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-28T01:14:41.227Z</updated>
+    <updated>2022-03-28T02:57:54.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -27,11 +27,32 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[채(CHE) 1집 - KPOP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[재만 - MIS: 미니앨범, 한정반]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자우림 9집 - GOODBYE, GRIEF., LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인터파크]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자우림 10집 - 자우림]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인터파크]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오승근 - 구름에 달 가듯]]></title>
@@ -76,14 +97,14 @@
         <content type="html"><![CDATA[조은 뮤직]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리사(블랙핑크) - LISA 0327 PHOTOBOOK VOL.03]]></title>
+        <title type="html"><![CDATA[리사(블랙핑크) - FIRST SINGLE ALBUM LALISA, GOLD VINYL LP: SPECIAL LIMITED ED.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리사(블랙핑크) - FIRST SINGLE ALBUM LALISA, GOLD VINYL LP: SPECIAL LIMITED ED.]]></title>
+        <title type="html"><![CDATA[리사(블랙핑크) - 0327 PHOTOBOOK VOL.03]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
@@ -95,26 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIR ROLAND HANNA - MILANO, PARIS, NEW YORK, LP]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW YORK TRIO - STARDUST]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEE KONITZ - BRAZILIAN SERENADE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[알레스 뮤직]]></content>
     </entry>
 </feed>
