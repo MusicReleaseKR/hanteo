@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-29T08:25:32.165Z</updated>
+    <updated>2022-03-29T09:16:02.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이치디 블랙(HD BL4CK) - BITTERSWEET POETRY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[비스킷 사운드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시네마(CNEMA) - MOBYDICK]]></title>
@@ -97,21 +104,14 @@
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KEALA SETTLE/ALAN WALKER - THIS IS ME]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FILMNOIR: LOUSTAL(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BSET OF BDJAZZ 2(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST OF THE GIRLS(VA)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
