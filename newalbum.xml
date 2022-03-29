@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-29T02:57:16.259Z</updated>
+    <updated>2022-03-29T03:31:39.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[비스킷 사운드]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WHITE STRIPES - THE WHITE STRIPES: JIMMY THE EXPLODER]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHITE STRIPES - DE STIJL]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TOOL - OPIATE2(BLU)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -53,6 +67,20 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSALIA - MOTOMAMI]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARILLION - FUGAZI: 2021 STEREO REMIX]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MARILLION - FUGAZI: 2021 STEREO REMIX]]></title>
@@ -88,33 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST OF CHRISTMAS(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST OF BDCINE(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홈보이(HOMEBOY)/닥터레드(DR.RED)/문(2, MOON) - 혼자만의 축제]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호림(HORIM) - WINTER TO SPRING]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[오감 엔터]]></content>
     </entry>
 </feed>
