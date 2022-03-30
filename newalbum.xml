@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-03-30T01:07:59.592Z</updated>
+    <updated>2022-03-30T02:56:26.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -13,14 +13,14 @@
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤하(YOUNHA) 6집-REPACK. - END THEORY FINAL EDITION]]></title>
+        <title type="html"><![CDATA[윤하(YOUNHA) 6집-REPACK. - END THEORY FINAL ED.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에이비식스(AB6IX) - 2022 WINTER PHOTOBOOK HYPNOGRAM]]></title>
+        <title type="html"><![CDATA[에이비식스(AB6IX) - HYPNOGRAM: 2022 WINTER PHOTOBOOK]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김사월 - 1202]]></title>
+        <title type="html"><![CDATA[김사월 - 1202: 연말 단독 공연, 노들섬 라이브하우스]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-30T00:00:00.000Z</updated>
