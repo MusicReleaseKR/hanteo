@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-01T06:21:14.067Z</updated>
+    <updated>2022-04-01T07:16:13.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -25,6 +25,27 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실리카겔 - KYO181/DESERT EAGLE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나상현씨 밴드 - 여름빛/덩그러니]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글렌 체크 - DAZED & CONFUSED/DIVE BABY, DIVE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[T-BONE WALKER - GEORGES VAN LINTHOUT]]></title>
@@ -94,25 +115,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMALIA RODRIGUES - AUDE SAMAMA]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혁기(HUCKI) - COME TO ME]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아토 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한김에/이윤지(3) - 벗]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
     </entry>
 </feed>
