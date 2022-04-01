@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-01T01:16:45.278Z</updated>
+    <updated>2022-04-01T03:15:07.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P.J. HARVEY - LET ENGLAND SHAKE: DEMOS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P.J. HARVEY - LET ENGLAND SHAKE: DEMOS]]></title>
@@ -107,12 +114,5 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-03-31T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패닉버튼 리이슈: COMIC MOMENTS(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
 </feed>
