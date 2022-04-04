@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-04T06:20:31.365Z</updated>
+    <updated>2022-04-04T07:16:54.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -90,30 +90,31 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정동원 - 하염없이]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[드림어스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤민수 - 그녀를 찾아주세요]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기상청 사람들: 사내연애 잔혹사 편(OST): JTBC-TV 주말 드라마, PT.9]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[휘민(LIL MOSHPIT) - AAA]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한강(2) - 아낌없이 주는 나무]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래커 - 날아와]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀸덤2(VA): MNET-TV 예능, 대표곡 경연 PT.1-1]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
 </feed>
