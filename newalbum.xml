@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-05T01:04:46.401Z</updated>
+    <updated>2022-04-05T02:53:49.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오 마이 걸 2집 - REAL LOVE, 한정반]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브(IVE) - LOVE DIVE]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ONO YOKO TRIBUTE - OCEAN CHILD: SONGS OF YOKO ONO]]></title>
+        <title type="html"><![CDATA[빅뱅(BIGBANG) - 봄여름가을겨울]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OLIVIA TRUMMER - FOR YOU]]></title>
@@ -28,6 +35,55 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[OLIVER TREE - COWBOY TEARS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCEAN CHILD: SONGS OF YOKO ONO(VA)]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCEAN CHILD: SONGS OF YOKO ONO(VA)]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MUDDY WATERS - FOLK SINGER: LTD ED.]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아울로스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MICHAEL BUBLE - HIGHER]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARY J. BLIGE - GOOD MORNING GORGEOUS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARINA - ANCIENT DREAMS IN A MODERN LAN]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JACOB KARLZON - WANDERLUST]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
@@ -48,69 +104,17 @@
         <content type="html"><![CDATA[소니 뮤직]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HURRAY FOR THE RIFF RAFF - LIFE ON EARTH]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GANG OF YOUTHS - ANGEL IN REALTIME]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELECTRIC LIGHT ORCHESTRA - ELDORADO]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADIA VICTORIA - A SOUTHERN GOTHIC]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이트베리(HATEBERRY) - LET ME BE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아고(PIAGO) - CIRCLE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크레이지 러브(OST): KBS-2TV 월화 드라마, PT.5]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘몽 - 바리]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채옐(YEL) - 0214]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창모 - UNDERGROUND ROCKSTAR]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주리(JOORI) - 사소했던 아무래도 좋은]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
 </feed>
