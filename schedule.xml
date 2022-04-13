@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-04-13T09:20:44.366Z</updated>
+    <updated>2022-04-13T10:19:22.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -61,6 +61,12 @@
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넥스트 5.5집 - REGAME?, LP]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-07-28T00:00:00.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[갯마을 차차차(OST): TVN-TV 토일 드라마, LP]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
@@ -107,12 +113,5 @@
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HENRYK SZERYNG - THE UNRELEASED BERLIN STUDIO RECORDINGS]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
 </feed>
