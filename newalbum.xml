@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-14T08:26:11.289Z</updated>
+    <updated>2022-04-14T09:20:41.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -21,6 +21,19 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[저스트비(JUST B) - JUST BEGUN: 미니앨범 2집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤씨아(NC.A) - 교생쌤]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강찬(2) - 사랑해]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-14T00:00:00.000Z</updated>
@@ -98,20 +111,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[BOSSA N'' STONES 3(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOSSA N'' MARLEY(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOSSA N'' MADONNA(VA)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-14T00:00:00.000Z</updated>
