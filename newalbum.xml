@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-15T01:10:01.866Z</updated>
+    <updated>2022-04-15T03:27:54.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[조영남 - 50TH, LP]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김민규(스위트피) 1집- 언제 어디인지 알 수는 없지만]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -115,5 +108,11 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최승호 - 바다로 간다]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-14T00:00:00.000Z</updated>
     </entry>
 </feed>
