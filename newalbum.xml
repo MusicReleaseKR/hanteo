@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-18T05:16:46.625Z</updated>
+    <updated>2022-04-18T06:20:52.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남경운 - EARTH]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘인(마마무) - D-DAY]]></title>
@@ -109,12 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전태원 - GRANDPA''S BOOK]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
