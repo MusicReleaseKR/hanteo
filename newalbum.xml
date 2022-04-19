@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-19T14:16:23.269Z</updated>
+    <updated>2022-04-19T15:18:04.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤욱 - DR. CHOI''S TEST LP & CD: LP+CD]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트(YOUNITE) - YOUNI-BIRTH, META VER.]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트(YOUNITE) - YOUNI-BIRTH]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예람 1집 - 성, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[볼 빨간 사춘기 - SEOUL]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍지윤 - 사랑의 여왕]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -75,41 +109,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[제이씨 유카(JAYCI YUCCA) - 멍]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이슨 옥(JASN OK) - 독도]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[코부코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스틴(JUSTIN) - U]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤정 - ESTRENA]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이프로 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주왕복선싸이드미러 - 어느새 봄]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[포크라노스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스틴(AUSTN) - 분홍꽃]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
