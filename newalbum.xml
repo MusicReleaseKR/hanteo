@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-19T08:20:38.088Z</updated>
+    <updated>2022-04-19T09:17:03.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -24,6 +24,20 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바람의 유혹(OST): 웹 드라마, PT.2]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오감 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더더(THE THE) - DRAMATIC IRONY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YOKO YATES - MYSTIC LIFE]]></title>
@@ -97,20 +111,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[GERI ALLEN - TWENTY ONE, LP]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GERALD CLAYTON - BELLS ON SAND]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GERALD CLAYTON - BELLS ON SAND]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-19T00:00:00.000Z</updated>
