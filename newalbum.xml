@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-21T08:24:16.615Z</updated>
+    <updated>2022-04-21T09:22:00.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[파테코(PATEKO) - BLENDED NOISE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조 - 비가 온다]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오감 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱 포레스트(VA), PT.4]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그린마더스클럽(OST): JTBC-TV 수목 드라마, PT.2]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-21T00:00:00.000Z</updated>
@@ -91,26 +112,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트(YOUNITE) - YOUNI-BIRTH: 미니앨범 1집]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트(YOUNITE) - YOUNI-BIRTH, META VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위위(OUIOUI) - LOVER]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
 </feed>
