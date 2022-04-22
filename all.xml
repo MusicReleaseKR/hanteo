@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-22T01:19:34.831Z</updated>
+    <updated>2022-04-22T03:44:31.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[김성규(인피니트) - SAVIOR: 미니앨범 4집 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -19,6 +19,20 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TAHITI 80 - PUZZLE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAHITI 80 - HERE WITH YOU (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TAHITI 80 - HERE WITH YOU (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
@@ -30,14 +44,7 @@
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
         <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[EMI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PATRICIA BARBER - CAFE BLUE: GOLD CD, LTD ED. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OSCAR PETERSON - PLAYS THE COLE PORTER SONG BOOK[20TH CENTURY] (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -45,6 +52,13 @@
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
         <updated>2022-04-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOGIC - BOBBY TARANTINO 3 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LADY GAGA - DAWN OF CHROMATICA, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -68,6 +82,13 @@
         <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KANYE WEST - YE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JACKIE MCLEAN - TIPPIN'' THE SCALES (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
@@ -82,18 +103,11 @@
         <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - HIS HAND IN MINE BY ELVIS (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <title type="html"><![CDATA[ENCANTO(OST)엔칸토: 마법의 세계 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
         <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - GIRLS! GIRLS! GIRLS! (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ELVIS PRESLEY - BLUE HAWAII, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -103,129 +117,115 @@
         <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELLA FITZGERALD/LOUIS ARMSTRONG - ELLA AND LOUIS AGAIN (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[시샵 미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDDIE VEDDER - EARTHLING (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김성규(인피니트) - SAVIOR: 미니앨범 4집 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.761Z</updated>
+        <updated>2022-04-22T03:44:11.701Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TROMBONE SHORTY - LIFTED (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.762Z</updated>
+        <updated>2022-04-22T03:44:11.701Z</updated>
+        <content type="html"><![CDATA[2022-04-22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAHITI 80 - PUZZLE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T03:44:11.701Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TAHITI 80 - HERE WITH YOU (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.763Z</updated>
+        <updated>2022-04-22T03:44:11.705Z</updated>
+        <content type="html"><![CDATA[2022-04-22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAHITI 80 - HERE WITH YOU (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T03:44:11.705Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SONNY RED - OUT OF THE BLUE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.766Z</updated>
-        <content type="html"><![CDATA[2022-04-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PATRICIA BARBER - CAFE BLUE: GOLD CD, LTD ED. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.767Z</updated>
+        <updated>2022-04-22T03:44:11.705Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OSCAR PETERSON - PLAYS THE COLE PORTER SONG BOOK[20TH CENTURY] (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.768Z</updated>
+        <updated>2022-04-22T03:44:11.705Z</updated>
+        <content type="html"><![CDATA[2022-04-22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOGIC - BOBBY TARANTINO 3 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T03:44:11.707Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LADY GAGA - DAWN OF CHROMATICA, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.771Z</updated>
+        <updated>2022-04-22T03:44:11.707Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KESHI - GABRIEL (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.772Z</updated>
+        <updated>2022-04-22T03:44:11.707Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KENNY DORHAM - MATADOR (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.773Z</updated>
+        <updated>2022-04-22T03:44:11.708Z</updated>
+        <content type="html"><![CDATA[2022-04-22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KANYE WEST - YE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-22T03:44:11.709Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JACKIE MCLEAN - TIPPIN'' THE SCALES (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.773Z</updated>
+        <updated>2022-04-22T03:44:11.711Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FRANK SINATRA/COUNT BASIE - FRANK SINATRA & COUNT BASIE (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.774Z</updated>
+        <updated>2022-04-22T03:44:11.712Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - HIS HAND IN MINE BY ELVIS (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <title type="html"><![CDATA[ENCANTO(OST)엔칸토: 마법의 세계 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.777Z</updated>
-        <content type="html"><![CDATA[2022-04-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - GIRLS! GIRLS! GIRLS! (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.778Z</updated>
+        <updated>2022-04-22T03:44:11.713Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ELVIS PRESLEY - BLUE HAWAII, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.779Z</updated>
-        <content type="html"><![CDATA[2022-04-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELLA FITZGERALD/LOUIS ARMSTRONG - ELLA AND LOUIS AGAIN (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.780Z</updated>
-        <content type="html"><![CDATA[2022-04-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDDIE VEDDER - EARTHLING (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:16.781Z</updated>
+        <updated>2022-04-22T03:44:11.714Z</updated>
         <content type="html"><![CDATA[2022-04-22]]></content>
     </entry>
     <entry>
@@ -338,112 +338,112 @@
         <title type="html"><![CDATA[이바다 - SPECIAL EDITION LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.169Z</updated>
+        <updated>2022-04-22T03:44:31.187Z</updated>
         <content type="html"><![CDATA[9999-12-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태연 3집 - INVU, LP VER. (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.172Z</updated>
+        <updated>2022-04-22T03:44:31.187Z</updated>
         <content type="html"><![CDATA[2022-12-01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백아 1집 - 우주선, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.175Z</updated>
+        <updated>2022-04-22T03:44:31.190Z</updated>
         <content type="html"><![CDATA[2022-10-06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도마(DOMA) 1집 - 이유도 없이 나는 섬으로 가네, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.177Z</updated>
+        <updated>2022-04-22T03:44:31.191Z</updated>
         <content type="html"><![CDATA[2022-09-15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장나라 3집 - 세번째 이야기, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.177Z</updated>
+        <updated>2022-04-22T03:44:31.192Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥스트 5.5집 - REGAME?, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.178Z</updated>
+        <updated>2022-04-22T03:44:31.193Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽃보다 남자, PT.2(OST): KBS-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.180Z</updated>
+        <updated>2022-04-22T03:44:31.193Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽃보다 남자, PT.1(OST): KBS-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.181Z</updated>
+        <updated>2022-04-22T03:44:31.194Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임창정 9집 - 구집: C.J.2002, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.182Z</updated>
+        <updated>2022-04-22T03:44:31.194Z</updated>
         <content type="html"><![CDATA[2022-09-05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사랑의 불시착(OST): TVN-TV 주말 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.183Z</updated>
+        <updated>2022-04-22T03:44:31.195Z</updated>
         <content type="html"><![CDATA[2022-08-29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신촌블루스 1집 - 그대 없는 거리: 패닉버튼 리이슈 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.184Z</updated>
+        <updated>2022-04-22T03:44:31.195Z</updated>
         <content type="html"><![CDATA[2022-08-25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬기로운 의사 생활, 시즌 2(OST): TVN-TV 목요 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.185Z</updated>
+        <updated>2022-04-22T03:44:31.196Z</updated>
         <content type="html"><![CDATA[2022-08-18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정현(배우) 2집 - 평화: PEACE, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.186Z</updated>
+        <updated>2022-04-22T03:44:31.197Z</updated>
         <content type="html"><![CDATA[2022-07-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갯마을 차차차(OST): TVN-TV 토일 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.187Z</updated>
+        <updated>2022-04-22T03:44:31.199Z</updated>
         <content type="html"><![CDATA[2022-07-25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해를 품은 달(OST): MBC-TV 수목 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.187Z</updated>
+        <updated>2022-04-22T03:44:31.200Z</updated>
         <content type="html"><![CDATA[2022-07-15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핫펠트 - LEFT, LP: WHITE LIMITED ED. (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-22T01:19:34.188Z</updated>
+        <updated>2022-04-22T03:44:31.201Z</updated>
         <content type="html"><![CDATA[2022-07-15]]></content>
     </entry>
 </feed>
