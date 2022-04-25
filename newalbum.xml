@@ -2,9 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-25T09:17:34.174Z</updated>
+    <updated>2022-04-25T10:22:05.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[할순(HALSOON) - 너에게]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[루미넌트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하윤주(2)/레마(REMA) - 통증이 와요]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴립(POLYP) - HATE YOU]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[포크라노스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴라(POLAR) - HIGHWAY LOVE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티코(T-CO) - 말해줘]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태진아 - 오늘도 살아야하니까]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타코(TAKO) - 언제든 기대요]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카페디아(CAFEDIA) - STEREOTYPE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오감 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칠로베이(CHILLOBEY) - ATLANTIS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[처리(CHURRY) - 이름을 불러조]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창조 - DECRESCENDO]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죠르디입니다(OST), PT.1]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정동원(트로트) - 손편지: 미니앨범 1집]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -13,107 +93,24 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오원 리(OHWON LEE) - REAL RECOGNIZE REAL]]></title>
+        <title type="html"><![CDATA[이하늘 - 끝세로줄]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+        <content type="html"><![CDATA[퍼플파인 엔터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베리베리(VERIVERY) 1집 - SERIES O-ROUND 3: WHOLE, PLATFORM VER.]]></title>
+        <title type="html"><![CDATA[이선빈/피오(P.O) - 2022 TVN 즐거움송]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리(VERIVERY) 1집 - SERIES O-ROUND 3: WHOLE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLOOD RED(OST)레드 퀸은 일곱 번 죽인다]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[라온 아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 블루스(OST): TVN-TV 주말 드라마, PT.4]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[순순희 - 살기 위해서]]></title>
+        <title type="html"><![CDATA[이구이(IGWI) - 내가 좀 바빠]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-24T00:00:00.000Z</updated>
+        <updated>2022-04-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[릴러말즈(LEELLAMARZ)/토일(TOIL) - 자가격리]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마, PT.5]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서 - 나의 X에게]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 블루스(OST): TVN-TV 주말 드라마, PT.3]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마, PT.4]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜화동 소년 - 사랑하는 사람]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한연주 - 오늘이 다시 온다면]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한경일 - 소중한 나의 사랑]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[티에스 앤 컴퍼니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펠릭(FELIC) - DIVIN'']]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[케이 미디어]]></content>
     </entry>
 </feed>
