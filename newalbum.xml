@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-04-26T01:20:41.898Z</updated>
+    <updated>2022-04-26T03:21:24.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정선 - BEST: 섬소년]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이수정(3) - MY NAME: 미니앨범 1집]]></title>
@@ -75,6 +82,13 @@
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WALLOWS - TELL ME THAT IT''S OVER]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TWENTY ONE PILOTS - LOCATION SESSIONS]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -89,28 +103,14 @@
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SARA BAREILLES - LITTLE VOICE: 15TH ANNI. ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[소니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PVRIS - USE ME: RSD LIMITED ED.]]></title>
+        <title type="html"><![CDATA[THOMAS HEADON - VICTORIA]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PSYCHE FRANCE VOL.7]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRIMAL SCREAM - SHINE LIKE STARS: WEATHERALL MIX]]></title>
+        <title type="html"><![CDATA[SPIDER MAN: NO WAY HOME(OST)스파이더맨: 노 웨이 홈]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
