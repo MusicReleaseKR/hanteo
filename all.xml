@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-26T09:17:37.728Z</updated>
+    <updated>2022-04-26T10:20:45.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[회기동 단편선 - 백년, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -11,11 +11,58 @@
         <updated>2022-04-26T00:00:00.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[황석정 - 차디찬 키스 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하준 - MOONSTRUCK BOY (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파인애플스튜디오 - REMEMBER (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인터파크]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최윤욱 - DR. CHOI''S TEST LP & CD, 영문판: LP+CD (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
         <updated>2022-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진(4, JIN) - 박수 쳐 줘 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지노아(JINOA) - ROUNDNROUND (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이엠티(JMT) - PIZZA (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재하(JAEHA) - CALI 2 PARIS (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정선 - BEST: 섬소년 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
@@ -32,6 +79,32 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[유레카(2) - 인생 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오감 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용림 - 주변의모든것이변해도난그대로남아줄게 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아토 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연우(2) - 난 혼자가 아냐 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이트라이트(8 LIGHT/리노) - 사랑해 주면 안 될까 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[알레프(ALEPH) - DAISY (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
@@ -39,192 +112,115 @@
         <content type="html"><![CDATA[포크라노스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보건교사 안은영(OST): 넷플릭스 드라마 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서령 - HIDE AND SEEK (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민우혁/소향 - 기적 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, SPECIAL VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, KIT (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, JEWEL VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다현(트와이스) - YES, I AM DAHYUN: 1ST PHOTOBOOK, BEIGE VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[코팬글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다현(트와이스) - YES, I AM DAHYUN: 1ST PHOTOBOOK, APPLE GREEN VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[코팬글로벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군검사 도베르만(OST): TVN-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAR - THE VINYL: 1971-1975 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[회기동 단편선 - 백년, LP (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.746Z</updated>
+        <updated>2022-04-26T10:20:23.160Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황석정 - 차디찬 키스 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.163Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하준 - MOONSTRUCK BOY (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.164Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파인애플스튜디오 - REMEMBER (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.165Z</updated>
         <content type="html"><![CDATA[2022-04-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최윤욱 - DR. CHOI''S TEST LP & CD, 영문판: LP+CD (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.747Z</updated>
+        <updated>2022-04-26T10:20:23.169Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진(4, JIN) - 박수 쳐 줘 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.174Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지노아(JINOA) - ROUNDNROUND (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.175Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이엠티(JMT) - PIZZA (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.177Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재하(JAEHA) - CALI 2 PARIS (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.178Z</updated>
         <content type="html"><![CDATA[2022-04-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정선 - BEST: 섬소년 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.760Z</updated>
+        <updated>2022-04-26T10:20:23.179Z</updated>
         <content type="html"><![CDATA[2022-04-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이수정(3) - MY NAME: 미니앨범 1집 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.761Z</updated>
+        <updated>2022-04-26T10:20:23.180Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유레카(2) - 인생 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.181Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용림 - 주변의모든것이변해도난그대로남아줄게 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.183Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연우(2) - 난 혼자가 아냐 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.189Z</updated>
+        <content type="html"><![CDATA[2022-04-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이트라이트(8 LIGHT/리노) - 사랑해 주면 안 될까 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
+        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
+        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
+        <updated>2022-04-26T10:20:23.190Z</updated>
         <content type="html"><![CDATA[2022-04-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알레프(ALEPH) - DAISY (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.761Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보건교사 안은영(OST): 넷플릭스 드라마 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.762Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서령 - HIDE AND SEEK (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.763Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민우혁/소향 - 기적 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.764Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, SPECIAL VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.765Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, KIT (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.766Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집, JEWEL VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.767Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타 엑스(MONSTA X) - SHAPE OF LOVE: 미니앨범 11집 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.768Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다현(트와이스) - YES, I AM DAHYUN: 1ST PHOTOBOOK, BEIGE VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.769Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다현(트와이스) - YES, I AM DAHYUN: 1ST PHOTOBOOK, APPLE GREEN VER. (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.770Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군검사 도베르만(OST): TVN-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.771Z</updated>
-        <content type="html"><![CDATA[2022-04-26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAR - THE VINYL: 1971-1975 (한터차트 ─ 뮤직정보 ─ 음반신보)]]></title>
-        <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
-        <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:21.772Z</updated>
+        <updated>2022-04-26T10:20:23.191Z</updated>
         <content type="html"><![CDATA[2022-04-26]]></content>
     </entry>
     <entry>
@@ -337,112 +333,112 @@
         <title type="html"><![CDATA[이바다 - SPECIAL EDITION LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.990Z</updated>
+        <updated>2022-04-26T10:20:45.068Z</updated>
         <content type="html"><![CDATA[9999-12-31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태연 3집 - INVU, LP VER. (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.995Z</updated>
+        <updated>2022-04-26T10:20:45.068Z</updated>
         <content type="html"><![CDATA[2022-12-01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백아 1집 - 우주선, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.995Z</updated>
+        <updated>2022-04-26T10:20:45.068Z</updated>
         <content type="html"><![CDATA[2022-10-06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ENNIO MORRICONE BEST(OST)엔니오 모리꼬네 베스트: ARTS SYM. ORC. (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.995Z</updated>
+        <updated>2022-04-26T10:20:45.068Z</updated>
         <content type="html"><![CDATA[2022-10-05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알고 있지만,(OST): JTBC-TV 토요 드라마(VA) (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.995Z</updated>
+        <updated>2022-04-26T10:20:45.069Z</updated>
         <content type="html"><![CDATA[2022-09-21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도마(DOMA) 1집 - 이유도 없이 나는 섬으로 가네, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.996Z</updated>
+        <updated>2022-04-26T10:20:45.070Z</updated>
         <content type="html"><![CDATA[2022-09-15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장나라 3집 - 세번째 이야기, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.996Z</updated>
+        <updated>2022-04-26T10:20:45.071Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥스트 5.5집 - REGAME?, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:36.996Z</updated>
+        <updated>2022-04-26T10:20:45.072Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽃보다 남자, PT.2(OST): KBS-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.000Z</updated>
+        <updated>2022-04-26T10:20:45.073Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽃보다 남자, PT.1(OST): KBS-TV 월화 드라마 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.000Z</updated>
+        <updated>2022-04-26T10:20:45.080Z</updated>
         <content type="html"><![CDATA[2022-09-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임창정 9집 - 구집: C.J.2002, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.002Z</updated>
+        <updated>2022-04-26T10:20:45.080Z</updated>
         <content type="html"><![CDATA[2022-09-05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사랑의 불시착(OST): TVN-TV 주말 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.002Z</updated>
+        <updated>2022-04-26T10:20:45.081Z</updated>
         <content type="html"><![CDATA[2022-08-29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신촌블루스 1집 - 그대 없는 거리: 패닉버튼 리이슈 (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.003Z</updated>
+        <updated>2022-04-26T10:20:45.081Z</updated>
         <content type="html"><![CDATA[2022-08-25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬기로운 의사 생활, 시즌 2(OST): TVN-TV 목요 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.005Z</updated>
+        <updated>2022-04-26T10:20:45.082Z</updated>
         <content type="html"><![CDATA[2022-08-18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정현(배우) 2집 - 평화: PEACE, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.006Z</updated>
+        <updated>2022-04-26T10:20:45.082Z</updated>
         <content type="html"><![CDATA[2022-07-28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갯마을 차차차(OST): TVN-TV 토일 드라마, LP (한터차트 ─ 뮤직정보 ─ 발매일정)]]></title>
         <id>https://MusicReleaseKR.github.io/hanteo/all.xml</id>
         <link href="https://MusicReleaseKR.github.io/hanteo/all.xml"/>
-        <updated>2022-04-26T09:17:37.007Z</updated>
+        <updated>2022-04-26T10:20:45.083Z</updated>
         <content type="html"><![CDATA[2022-07-25]]></content>
     </entry>
 </feed>
