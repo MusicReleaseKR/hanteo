@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-02T01:22:30.407Z</updated>
+    <updated>2022-05-02T03:54:11.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -75,13 +75,6 @@
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이브(DIVE) - I S2 MY WONDERFUL DAYS]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[강승윤 - YOON: PASSAGE: YG PALM STAGE 2021]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -89,31 +82,38 @@
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KEN MORIMURA & LATIN JAZZ BAND - STUDIO GHIBLI MEETS LATIN CUBAN JAZZ BAND]]></title>
+        <title type="html"><![CDATA[QUADRO NUEVO - ODYSSEE: A JOURNEY INTO THE LIGHT]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LELEKA - SONCE U SERCI]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KEN MORIMURA & LATIN JAZZ BAND - STUDIO GHIBLI MEETS LATIN CUBAN JAZZ BAND-]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김재중 - ON THE ROAD : AN ARTIST''S JOURNEY, LP]]></title>
+        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마, PT.7]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혀누블(HYUNOOBLE) - DRINK]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허성현(HUH!)/쿤디 판다(KHUNDI PANDA) - COME UPRIGHT]]></title>
+        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마, PT.6]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
 </feed>
