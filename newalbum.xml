@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-03T01:22:47.951Z</updated>
+    <updated>2022-05-03T03:23:42.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드림어스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김미정(YOURBEAGLE) - VOLUME UP!]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WILLIE NELSON - A BEAUTIFUL TIME]]></title>
@@ -105,13 +112,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[KING CRIMSON - GREAT DECEIVER VOL.2: LIVE 1973-1974]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KING CRIMSON - GREAT DECEIVER VOL.1: LIVE 1973-1974]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
