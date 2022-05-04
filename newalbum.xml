@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-04T01:21:48.369Z</updated>
+    <updated>2022-05-04T03:24:57.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -32,6 +32,34 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAWAU ADLER - I PLAY WITH YOU]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RYUICHI SAKAMOTO - PLAYING THE PIANO 12122020]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[씨앤엘(C &amp; L)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MULO FRANCEL - MOUNTAIN MELODY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVELYN HUBER - CALM]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[굿 인터내셔널]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[히어로인시티/할로우 영/제이 웨이 - 살아]]></title>
@@ -88,32 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이프로 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유스 라이크 어 드림 - 꽃]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[비스킷 사운드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨레마(WEREMA) - BUST ''EM]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원시인 - 너까지]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온비 - LITTLE SPECIAL]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
 </feed>
