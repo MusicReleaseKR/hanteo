@@ -2,119 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-10T09:22:56.547Z</updated>
+    <updated>2022-05-10T10:19:08.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한다윗 - 발라드는못듣겠어]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.215Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아고(PIAGO) - CLOSER]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.215Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투엣 - 눈부신 그대와]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.217Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지세희 - BUTTERFLY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.217Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조성민/김바다 - NEW WORLD]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.218Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제임스 안(JAMES AN) - ROLE MODEL]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.220Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이포 프라다(J4 PRADA) - 스파링]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.221Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전가람 - FOR A NEW JOURNEY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-10T10:18:46.222Z</updated>
+        <content type="html"><![CDATA[2022-05-10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장윤정 - ESTRENA]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.138Z</updated>
+        <updated>2022-05-10T10:18:46.224Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이콘(IKON) - FLASHBACK: 미니앨범 4집, PHOTOBOOK VER.]]></title>
+        <title type="html"><![CDATA[잔나비 - 레이디버드]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.139Z</updated>
+        <updated>2022-05-10T10:18:46.227Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이콘(IKON) - FLASHBACK: 미니앨범 4집, KIT]]></title>
+        <title type="html"><![CDATA[일호(2) - 사랑]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.139Z</updated>
+        <updated>2022-05-10T10:18:46.233Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이콘(IKON) - FLASHBACK: 미니앨범 4집, DIGIPACK VER.]]></title>
+        <title type="html"><![CDATA[인도우(INDOW) - DON''T STAY]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.139Z</updated>
+        <updated>2022-05-10T10:18:46.234Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - HIS HAND IN MINE BY ELVIS]]></title>
+        <title type="html"><![CDATA[이안(EAN) - 딩동]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.139Z</updated>
+        <updated>2022-05-10T10:18:46.236Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELVIS PRESLEY - GIRLS! GIRLS! GIRLS!]]></title>
+        <title type="html"><![CDATA[이날(YNR) - 너에게 가]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.145Z</updated>
+        <updated>2022-05-10T10:18:46.239Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CHET BAKER - LIVE IN PARIS: THE RADIO FRANCE RECORDINGS]]></title>
+        <title type="html"><![CDATA[원트(WANT) - 다락]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.147Z</updated>
+        <updated>2022-05-10T10:18:46.239Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CHET BAKER - LIVE IN PARIS: THE RADIO FRANCE RECORDINGS]]></title>
+        <title type="html"><![CDATA[원경 - 꽃]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.148Z</updated>
+        <updated>2022-05-10T10:18:46.240Z</updated>
         <content type="html"><![CDATA[2022-05-10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필통 - 내가 너의 빛이 되어줄게]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.150Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[픽보이 - SHE IS]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.151Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티1419(T1419) - RUN UP, KOREAN VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.153Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - MINISODE 2 : THURSDAY''S CHILD, TEAR VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.154Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - MINISODE 2 : THURSDAY''S CHILD]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.155Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래디 - 난 그리고 넌 지워]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.157Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨(CLASS:Y) - 1ST MINI ALBUM Y: CLASS IS OVER: 미니앨범 1집, PLATFORM VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.158Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨(CLASS:Y) - 1ST MINI ALBUM Y: CLASS IS OVER: 미니앨범 1집]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T09:22:40.160Z</updated>
-        <content type="html"><![CDATA[2022-05-09]]></content>
     </entry>
 </feed>
