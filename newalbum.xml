@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-11T08:28:04.496Z</updated>
+    <updated>2022-05-11T09:20:43.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이지형 - 꼭 봄이 아니더라도]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이바다 - SPECIAL EDITION LP]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -34,10 +41,24 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[손진욱 - PARADIGM]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[손성제 1집 - 비의 비가]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-11T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디어밍 - 그때가 난 그리워]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한다윗 - 발라드는못듣겠어]]></title>
@@ -93,25 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아토 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤정 - ESTRENA]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이프로 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 레이디버드]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일호(2) - 사랑]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
     </entry>
 </feed>
