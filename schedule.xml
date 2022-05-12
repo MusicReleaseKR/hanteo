@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-05-12T09:22:20.841Z</updated>
+    <updated>2022-05-12T10:23:47.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -25,6 +25,32 @@
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-12-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드림어스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM, ECO EDITION]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에덴의 동쪽(OST): MBC-TV 창사 47주년 특별기획 드라마, LP]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-10-06T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬픔보다 더 슬픈 이야기(OST), LP]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-10-06T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ENNIO MORRICONE BEST(OST)엔니오 모리꼬네 베스트: ARTS SYM. ORC.]]></title>
@@ -82,34 +108,6 @@
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신촌블루스 1집 - 그대 없는 거리: 패닉버튼 리이슈]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-08-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬기로운 의사 생활, 시즌 2(OST): TVN-TV 목요 드라마, LP]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-08-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정현(배우) 2집 - 평화: PEACE, LP]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-07-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갯마을 차차차(OST): TVN-TV 토일 드라마, LP]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
 </feed>
