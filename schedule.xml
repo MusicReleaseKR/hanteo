@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-05-12T23:18:41.626Z</updated>
+    <updated>2022-05-24T02:57:24.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - CHAN''S TIME & ONE MORE CHAN''S]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>9999-12-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[수호(엑소) - GREY SUIT: 미니앨범 2집, LP VER.]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
@@ -25,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-12-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드림어스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설강화(OST): JTBC-TV 주말 드라마, LP]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-11-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM, ECO EDITION]]></title>
