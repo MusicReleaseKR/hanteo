@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-25T01:23:43.457Z</updated>
+    <updated>2022-05-25T03:20:06.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <updated>2022-05-25T00:00:00.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TROMBONE SHORTY - LIFTED]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TINA TURNERMANY: FACES OF TINA TURNER(VA)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -47,6 +54,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[THE LONGEST JOHNS - SMOKE AND OAKUM]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEARS FOR FEARS - THE TIPPING POINT]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-25T00:00:00.000Z</updated>
@@ -100,19 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MELODY GARDOT/PHILIPPE POWELL - ENTRE EUX DEUX]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANY FACES OF ELVIS PRESLEY(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
     </entry>
 </feed>
