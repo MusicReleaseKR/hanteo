@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-05-25T08:21:42.657Z</updated>
+    <updated>2022-05-25T09:17:57.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -13,10 +13,31 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전상근/배말랭 - 성장통]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[장필순 11집 - PETRICHOR]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-25T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤딴딴 - 그저 그런 이별 노래]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용용 - 새벽 끝의 소나타]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밴디트(BVNDIT) - RE-ORIGINAL: 미니앨범 3집]]></title>
@@ -24,6 +45,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너에게 가는 속도 493KM(OST): KBS2-TV 수목 드라마, PT.10]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김재중 - ON THE ROAD : AN ARTIST''S JOURNEY, LP]]></title>
@@ -86,33 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STREET BORN: ULTIMATE GUIDE TO HIP HOP(VA)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROBERT GLASPER - BLACK RADIO VOL.3]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PROFUMO DI DONNA(OST)여인의 향기]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NORAH JONES - COME AWAY WITH ME: 20TH ANNI. SUPER DELUXE ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
 </feed>
