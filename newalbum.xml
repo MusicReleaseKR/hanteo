@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-01T14:24:00.247Z</updated>
+    <updated>2022-06-01T15:19:50.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조유리 - OP.22 Y-WALTZ: IN MAJOR, JEWEL VER.]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 - OP.22 Y-WALTZ: IN MAJOR]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신재창 - 모래내 종점: 삶의 시, 삶의 노래 2]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지상(2) - 그날의 외침]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -86,32 +114,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정민혜 - 작약]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[퍼플파인 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주은(3) - 27]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정권 - 그날 밤처럼 나와 춤춰줄래]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신 - RAINY HAPPY DAY: MONTHLY 윤종신 2022 MAY]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
