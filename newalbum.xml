@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-03T01:10:32.018Z</updated>
+    <updated>2022-06-03T03:11:53.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이성수(2) - ONLY LOVERS LEFT ALIVE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세븐틴 4집 - FACE THE SUN, WEVERSE ALBUMS VER.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -39,7 +46,34 @@
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[배영경 - 푸른 너]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 해방일지(OST): JTBC-TV 주말 드라마]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIGRID - HOW TO LET GO]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SHERYL CROW - SHERYL: MUSIC FROM THE FEATURE DOCUMENTARY]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAMMSTEIN - ZEIT]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-03T00:00:00.000Z</updated>
@@ -60,6 +94,13 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BOYWITHUKE - SEROTONIN DREAMS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[호치키스(김호진) - LOVENTURE]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -71,46 +112,5 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-02T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해피니스(SRN)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미디어 포 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이퍼타임(HYPEERTIME)/덴(2, DEN) - MOMENTS I HAD: HYPEERTIME REMIX]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다날 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크노이즈(PINK NOISE) - MY MIND: ACOUSTIC]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[픽션들(PICTIONS) - 모카]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미러볼 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코코: 죽은 자들의 세상(SRN)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미디어 포 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초승 - 마음 앞에서]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
 </feed>
