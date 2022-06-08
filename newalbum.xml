@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-08T14:24:49.084Z</updated>
+    <updated>2022-06-08T15:16:52.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우아!(WOO!AH!) - JOY: 미니앨범 1집, JEWEL VER.]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아!(WOO!AH!) - JOY: 미니앨범 1집]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김신일(2) 1집 - SOUL SOUL SOUL, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기기기 - META MORPH]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미러볼 뮤직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴 라고해 - BE WITHOUT U]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -86,33 +113,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다날 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지아(2) - 눈맞춤]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주영(3) - 흉터]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아토 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브(OST): TVN-TV 수목 드라마, PT.1]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병찬 - I DREAM]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
 </feed>
