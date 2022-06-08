@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-06-08T09:16:20.263Z</updated>
+    <updated>2022-06-08T10:17:54.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신용재 - 사계, LIMITED ED.]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에덴의 동쪽(OST): MBC-TV 창사 47주년 특별기획 드라마, LP]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
@@ -104,11 +111,5 @@
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-09-15T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라 3집 - 세번째 이야기, LP]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-09-08T00:00:00.000Z</updated>
     </entry>
 </feed>
