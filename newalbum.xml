@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-10T01:23:21.149Z</updated>
+    <updated>2022-06-10T03:20:32.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -27,18 +27,25 @@
         <content type="html"><![CDATA[내츄럴리뮤직]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄 소년단 - PROOF, STANDARD EDITION]]></title>
+        <title type="html"><![CDATA[방탄 소년단 - PROOF, STANDARD ED.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄 소년단 - PROOF, COMPACT EDITION]]></title>
+        <title type="html"><![CDATA[방탄 소년단 - PROOF, COMPACT ED.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WET LEG - WET LEG]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[강앤뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WET LEG - WET LEG]]></title>
@@ -56,6 +63,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[SASHA - XPANDER]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROBERT CRAY - STRONG PERSUADER]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
@@ -83,6 +97,13 @@
         <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MY BLOODY VALENTINE - LOVELESS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[강앤뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KENDRICK LAMAR - MR. MORALE & THE BIG STEPPERS]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -90,28 +111,7 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JON HOPKINS - PIANO VERSIONS]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JON HOPKINS - MUSIC FOR PSYCHEDELIC THERAPY, LTD ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JON HOPKINS - MUSIC FOR PSYCHEDELIC THERAPY]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRANZ FERDINAND - HITS TO THE HEAD]]></title>
+        <title type="html"><![CDATA[JON HOPKINS - SINGULARITY]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
