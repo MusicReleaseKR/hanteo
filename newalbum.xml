@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-15T01:26:42.190Z</updated>
+    <updated>2022-06-15T03:39:28.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[아울로스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[STEVE FOLK - DEPARTURE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아울로스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RONNIE FOSTER - TWO-HEADED FREAP]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -109,12 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아울로스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRANT GREEN - THE LATIN BIT: BLUE NOTE TONE POET SERIES, LIMITED ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
 </feed>
