@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-15T07:16:59.677Z</updated>
+    <updated>2022-06-15T08:22:58.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[박상돈 - 바람]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[내츄럴리뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드리핀(DRIPPIN) - VILLAIN: ZERO]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -109,12 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JENS KOMMNICK - STRINGED]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
     </entry>
 </feed>
