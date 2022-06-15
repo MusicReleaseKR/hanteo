@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-15T06:20:36.215Z</updated>
+    <updated>2022-06-15T07:16:59.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스 식스 센스(OST): 디즈니 플러스, PT.6]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[지니 뮤직]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인페이즈(INPHASE) - THE FRACTAL]]></title>
@@ -102,13 +109,6 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JENS KOMMNICK - STRINGED]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아울로스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JENS KOMMNICK - STRINGED]]></title>
