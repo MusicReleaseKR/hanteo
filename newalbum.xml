@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-15T04:33:12.472Z</updated>
+    <updated>2022-06-15T05:20:30.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[미러볼 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유희열 - 생활음악 LP]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오메가 엑스(OMEGA X) 1집 - 낙서: STORY WRITTEN IN MUSIC]]></title>
@@ -109,6 +102,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[굿 인터내셔널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JENS KOMMNICK - STRINGED]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아울로스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JENS KOMMNICK - STRINGED]]></title>
