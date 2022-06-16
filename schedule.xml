@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-06-16T09:20:53.245Z</updated>
+    <updated>2022-06-16T10:17:28.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드림어스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스물다섯 스물하나(OST): TVN-TV 주말 드라마, LP]]></title>
+        <id>https://www.hanteochart.com/board/schedule</id>
+        <link href="https://www.hanteochart.com/board/schedule"/>
+        <updated>2022-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로듀사(OST): KBS-2TV 드라마, LP]]></title>
@@ -104,13 +111,6 @@
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-10-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고 있지만,(OST): JTBC-TV 토요 드라마(VA)]]></title>
-        <id>https://www.hanteochart.com/board/schedule</id>
-        <link href="https://www.hanteochart.com/board/schedule"/>
-        <updated>2022-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
 </feed>
