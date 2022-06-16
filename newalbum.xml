@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-16T06:19:57.234Z</updated>
+    <updated>2022-06-16T08:23:07.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송민경 - 이럴 거면 사랑하지 말았어야지: 춘정지란(OST)]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다날 엔터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[망고팔트 - 사랑에 빠졌나봐]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[릴 체리(LIL CHERRY)/골드부다(GOLDBUUDA) - SPACE TALK]]></title>
@@ -101,19 +115,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[엔에이치엔 벅스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스 식스 센스(OST): 디즈니 플러스, PT.6]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크록(CROQ) - READY TO LOVE]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[포크라노스]]></content>
     </entry>
 </feed>
