@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-21T09:37:03.537Z</updated>
+    <updated>2022-06-21T10:23:53.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -24,6 +24,12 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허클베리핀 3집 - 올랭피오의 별]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-21T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[탑 지(TOP G/홍석천) - K TOP STAR: CLUB REMIX]]></title>
@@ -103,13 +109,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[웨이즈(WAYS) - WANT YOU TO STAY]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지니 뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 오늘부터(OST): SBS-TV 월화 드라마, PT.7]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-21T00:00:00.000Z</updated>
