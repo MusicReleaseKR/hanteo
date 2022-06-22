@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/schedule</id>
     <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-06-22T07:15:35.531Z</updated>
+    <updated>2022-06-22T08:24:02.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -74,14 +74,14 @@
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM, ECO EDITION]]></title>
+        <title type="html"><![CDATA[폴킴(PAUL KIM) - 비]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-10-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM]]></title>
+        <title type="html"><![CDATA[폴킴(PAUL KIM) - PKALBUM, ECO EDITION]]></title>
         <id>https://www.hanteochart.com/board/schedule</id>
         <link href="https://www.hanteochart.com/board/schedule"/>
         <updated>2022-10-31T00:00:00.000Z</updated>
