@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-22T01:28:36.024Z</updated>
+    <updated>2022-06-22T03:33:24.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[강앤뮤직]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TOKUNBO - GOLDEN DAYS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[강앤뮤직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SEAN WEBSTER - THREE NIGHTS LIVE]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -49,6 +56,20 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[MANDY MOORE - IN REAL LIFE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MANDY MOORE - IN REAL LIFE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOU DONALDSON - BLUES WALK: STD. ED.]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-22T00:00:00.000Z</updated>
@@ -76,6 +97,13 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FREDDIE HUBBARD - BREAKING POINT]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ELLA FITZGERALD - ELLA AT THE HOLLYWOOD BOWL: THE IRVING BERLIN SONGBOOK]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -88,32 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BARNEY KESSEL/SHELLY MANNE/RAY BROWN - THE POLL WINNERS]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANTON MANGOLD - DA XIA]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[강앤뮤직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히포(3, HIPPO) - SAD ENDING]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[포크라노스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정관 트리오 - PRAISE THE LORD]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
     </entry>
 </feed>
