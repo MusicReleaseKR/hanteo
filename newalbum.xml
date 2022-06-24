@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-24T05:21:10.414Z</updated>
+    <updated>2022-06-24T06:20:50.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IMAGINE DRAGONS - SHARKS]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HOLLY HUMBERSTONE - THE WALLS ARE WAY TOO THIN]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -102,13 +109,6 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AEROSMITH - 1971: THE ROAD STARTS HEAR]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AEROSMITH - 1971: THE ROAD STARTS HEAR]]></title>
