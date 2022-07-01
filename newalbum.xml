@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-06-30T23:16:29.398Z</updated>
+    <updated>2022-07-01T08:22:08.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이홉(방탄 소년단) - MORE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자우림 9집 - HAPPY 25TH JAURIM]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -18,6 +25,20 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[에프에프컴퍼니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 바스타즈(THE VASTARDS) - CARNIVAL]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[비스킷 사운드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO - MY GENERATION: STD. ED.]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEX PISTOLS - THE ORIGINAL RECORDINGS]]></title>
@@ -69,6 +90,13 @@
         <content type="html"><![CDATA[유니버설 코리아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CIBO MATTO - STEREO TYPE A, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[황치열 - 내 눈물이 하는 말: 웹툰 연애의 발견(OST)]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
@@ -88,32 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫펠트 - LEFT, LP: WHITE LIMITED ED.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할로우 영/토미더트랩키드 - TAPE #01]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니버설 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프롬 2020(FROM 2020) - 생각이 많은 그대에게]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴립(POLYP) - 지저분한 농담]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[포크라노스]]></content>
     </entry>
 </feed>
