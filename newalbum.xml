@@ -2,9 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-07-04T14:15:04.789Z</updated>
+    <updated>2022-07-04T15:17:03.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이블(F.ABLE) - 여행]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[내츄럴리뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광조/함춘호 - ACOUSTIC 미학적인 어쿠스틱의 향연]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 - SEQUENCE, JEWEL VER. 한정반]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 - SEQUENCE]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김목인 4집 - 저장된 풍경]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[워너 뮤직 코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강산에 - VOL.0]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[씨앤엘(C &amp; L)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황금가면(OST): KBS2-TV 일일 드라마, PT.2]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -72,46 +113,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다날 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 뷰티풀 군바리(OST)]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[와이지 플러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우이경 - 사랑을 알게 해주는 너]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[티에스 앤 컴퍼니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 우(OPERA WOO) - 구원]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오 마이 웨딩(OST): SBS-TV 예능, PT.4]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다날 엔터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옐로우위시(YELLOWISH) - 부드러운 선인장의 촉감]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 1집 - MMM, PHOTO BOOK VER.]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
 </feed>
