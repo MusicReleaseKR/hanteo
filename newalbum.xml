@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-07-05T23:17:43.419Z</updated>
+    <updated>2022-07-06T01:46:11.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지누션(JINUSEAN) 1집 - JINUSEAN, LP]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이지 플러스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이리스(IRRIS) - WANNA KNOW]]></title>
@@ -106,12 +113,5 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-05T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키조(KIXO) - 이건내가처음쓰는사랑노래]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드림어스]]></content>
     </entry>
 </feed>
