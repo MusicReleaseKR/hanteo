@@ -2,15 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-07-06T23:16:01.715Z</updated>
+    <updated>2022-07-07T01:41:01.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[판타스틱 듀오 베스트 컬렉션, PT.1]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-07T00:00:00.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[장기하와 얼굴들 - MONO, 재발매]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
@@ -115,5 +109,12 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[티에스 앤 컴퍼니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테오(TE.O) - 덧칠]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스톤 뮤직 엔터(STONE]]></content>
     </entry>
 </feed>
