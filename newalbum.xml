@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-07-08T01:41:01.164Z</updated>
+    <updated>2022-07-08T03:42:25.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -79,7 +79,7 @@
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[록레코드]]></content>
+        <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NAT KING COLE - GREATEST HITS]]></title>
@@ -110,7 +110,7 @@
         <content type="html"><![CDATA[시샵 미디어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JACQUES BREL - THE BEST OF JACQUES BREL]]></title>
+        <title type="html"><![CDATA[JIMMY REED - I''M JIMMY REED]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-08T00:00:00.000Z</updated>
