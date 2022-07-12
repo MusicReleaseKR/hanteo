@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanteochart.com/board/newalbum</id>
     <title>한터차트 ─ 뮤직정보 ─ 음반신보</title>
-    <updated>2022-07-12T01:42:38.329Z</updated>
+    <updated>2022-07-12T03:59:29.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.hanteochart.com/board/favicon.ico</icon>
     <entry>
@@ -42,6 +42,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[THEO CROKER - LOVE QUANTUM]]></title>
+        <id>https://www.hanteochart.com/board/newalbum</id>
+        <link href="https://www.hanteochart.com/board/newalbum"/>
+        <updated>2022-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소니 뮤직]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIVEON - GIVE OR TAKE]]></title>
         <id>https://www.hanteochart.com/board/newalbum</id>
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-12T00:00:00.000Z</updated>
@@ -109,12 +116,5 @@
         <link href="https://www.hanteochart.com/board/newalbum"/>
         <updated>2022-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤직 앤 뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코디 그린(KODI GREEN) - LONER]]></title>
-        <id>https://www.hanteochart.com/board/newalbum</id>
-        <link href="https://www.hanteochart.com/board/newalbum"/>
-        <updated>2022-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[카카오 엔터테인먼트]]></content>
     </entry>
 </feed>
