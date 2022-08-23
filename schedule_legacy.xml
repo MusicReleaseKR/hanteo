@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.hanteochart.com/board/schedule</id>
-    <title>한터차트 ─ 뮤직정보 ─ 발매일정</title>
-    <updated>2022-08-23T09:17:06.288Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.hanteochart.com/board/favicon.ico</icon>
-</feed>
